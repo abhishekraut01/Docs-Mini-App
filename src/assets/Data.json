@@ -1,0 +1,51 @@
+[
+    {
+      "title": "Project Plan",
+      "tagColor": "blue",
+      "fileSize": "1.2MB",
+      "isAvailable": true
+    },
+    {
+      "title": "Meeting Notes",
+      "tagColor": "green",
+      "fileSize": "800KB",
+      "isAvailable": false
+    },
+    {
+      "title": "Design Mockups",
+      "tagColor": "red",
+      "fileSize": "2.5MB",
+      "isAvailable": true
+    },
+    {
+      "title": "Financial Report",
+      "tagColor": "yellow",
+      "fileSize": "1.8MB",
+      "isAvailable": false
+    },
+    {
+      "title": "Resume",
+      "tagColor": "purple",
+      "fileSize": "300KB",
+      "isAvailable": true
+    },
+    {
+      "title": "Product Roadmap",
+      "tagColor": "orange",
+      "fileSize": "1.4MB",
+      "isAvailable": true
+    },
+    {
+      "title": "Research Paper",
+      "tagColor": "teal",
+      "fileSize": "3.1MB",
+      "isAvailable": false
+    },
+    {
+      "title": "User Guide",
+      "tagColor": "pink",
+      "fileSize": "1MB",
+      "isAvailable": true
+    }
+  ]
+  
